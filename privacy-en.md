@@ -1,7 +1,7 @@
 # Privacy Policy for EazyScan
 (Compliant with the General Data Protection Regulation – GDPR)
 
-Last updated: [Insert Date]
+Last updated: 23.02.2026
 
 ## 1. Data Controller (Art. 13 GDPR)
 
