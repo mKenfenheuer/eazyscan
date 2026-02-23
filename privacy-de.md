@@ -7,11 +7,10 @@ Stand: [Datum einfügen]
 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO):
 
-[Firmenname]  
-[Rechtsform, falls zutreffend]  
-[Vollständige Anschrift]  
-[Land]  
-E-Mail: [Kontakt-E-Mail]
+Maximilian Kenfenheuer
+Lindenweg 6
+42929 Wermelskirchen
+E-Mail: eazyscan@ksol.it
 
 ## 2. Allgemeines
 
