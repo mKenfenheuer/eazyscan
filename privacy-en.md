@@ -7,11 +7,13 @@ Last updated: [Insert Date]
 
 Controller within the meaning of the General Data Protection Regulation (GDPR):
 
-[Your Company Name]  
-[Legal Form, if applicable]  
-[Full Address]  
-[Country]  
-Email: [Contact Email]
+Maximilian Kenfenheuer
+
+Lindenweg 6
+
+42929 Wermelskirchen
+
+E-Mail: eazyscan@ksol.it
 
 ## 2. Overview
 
