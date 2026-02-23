@@ -1,7 +1,7 @@
 # Datenschutzerklärung für EazyScan
 (Gemäß Datenschutz-Grundverordnung – DSGVO)
 
-Stand: [Datum einfügen]
+Stand: 23.02.2026
 
 ## 1. Verantwortlicher (Art. 13 DSGVO)
 
